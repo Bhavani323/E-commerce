@@ -62,11 +62,5 @@ To run, follow these steps:
 - CSS 3
 - Advance JavaScript (ES6)
 
-## Creators
-
-- [@Mohit Sehrawat](https://github.com/m-sehrawat/)
-- [@Taher Ahmed](https://github.com/taherahmed14)
-- [@Pabitra Saikia](https://github.com/ipabitrasaikia1)
-- [@Renu Kumari](https://github.com/renurisha)
-
+                            
   
